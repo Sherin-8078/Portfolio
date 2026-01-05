@@ -5,7 +5,7 @@ const Hero = () => {
     <div className='min-h-screen flex items-center justify-center p-4'>
         <div className='text-center'>
       <h1 className="text-4xl md:text-5xl font-bold text-white leading-tight text-yellow-200">
-          Hi, I’m <span className=" gradient-text">Sherin Shibu</span> 👋
+          Hi, I’m <span className=" gradient-text">Sherin Shibu</span> 
         </h1>
 
         <h2 className="mt-3 text-xl md:text-2xl text-slate-300">
