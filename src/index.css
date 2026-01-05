@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-black text-white;
+  }  
+  .gradient-text {
+    @apply bg-gradient-to-r from-fuchsia-600 via-fuchsia-500 to-white
+           text-transparent bg-clip-text;
+  }
+}
